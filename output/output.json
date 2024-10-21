@@ -1,0 +1,98 @@
+[
+    {
+        "atccode": "A04AD",
+        "drug": "DIPHENHYDRAMINE",
+        "journal": "Journal of emergency nursing",
+        "date": "2019-01-01"
+    },
+    {
+        "atccode": "A04AD",
+        "drug": "DIPHENHYDRAMINE",
+        "journal": "The Journal of pediatrics",
+        "date": "2019-02-01"
+    },
+    {
+        "atccode": "S03AA",
+        "drug": "TETRACYCLINE",
+        "journal": "Journal of food protection",
+        "date": "2020-01-01"
+    },
+    {
+        "atccode": "S03AA",
+        "drug": "TETRACYCLINE",
+        "journal": "American journal of veterinary research",
+        "date": "2020-02-01"
+    },
+    {
+        "atccode": "S03AA",
+        "drug": "TETRACYCLINE",
+        "journal": "Psychopharmacology",
+        "date": "2020-01-01"
+    },
+    {
+        "atccode": "V03AB",
+        "drug": "ETHANOL",
+        "journal": "Psychopharmacology",
+        "date": "2020-01-01"
+    },
+    {
+        "atccode": "A03BA",
+        "drug": "ATROPINE",
+        "journal": "The journal of maternal-fetal  neonatal medicine",
+        "date": "2020-01-03"
+    },
+    {
+        "atccode": "A01AD",
+        "drug": "EPINEPHRINE",
+        "journal": "The journal of allergy and clinical immunology In practice",
+        "date": "2020-01-02"
+    },
+    {
+        "atccode": "A01AD",
+        "drug": "EPINEPHRINE",
+        "journal": "The journal of allergy and clinical immunology In practice",
+        "date": "2020-01-03"
+    },
+    {
+        "atccode": "6302001",
+        "drug": "ISOPRENALINE",
+        "journal": "Journal of photochemistry and photobiology B Biology",
+        "date": "2020-01-01"
+    },
+    {
+        "atccode": "R01AD",
+        "drug": "BETAMETHASONE",
+        "journal": "The journal of maternal-fetal  neonatal medicine",
+        "date": "2020-01-01"
+    },
+    {
+        "atccode": "R01AD",
+        "drug": "BETAMETHASONE",
+        "journal": "Journal of back and musculoskeletal rehabilitation",
+        "date": "2020-01-01"
+    },
+    {
+        "atccode": "R01AD",
+        "drug": "BETAMETHASONE",
+        "journal": "The journal of maternal-fetal  neonatal medicine",
+        "date": "2020-01-03"
+    },
+    {
+        "atccode": "A04AD",
+        "drug": "DIPHENHYDRAMINE",
+        "journal": "Journal of emergency nursing",
+        "date": "2020-01-01"
+    },
+    {
+        "atccode": "A01AD",
+        "drug": "EPINEPHRINE",
+        "journal": "Journal of emergency nursingxc3x28",
+        "date": "2020-04-27"
+    },
+    {
+        "atccode": "R01AD",
+        "drug": "BETAMETHASONE",
+        "journal": "Hôpitaux Universitaires de Genève",
+        "date": "2020-01-01"
+    }
+]
